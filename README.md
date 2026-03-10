@@ -4,7 +4,7 @@ Este repositorio es parte de un laboratorio práctico sobre metodología Kanban 
 
 ## Equipo
 - [Nombre Desarrollador 1]
-- [Desarrollado2 Florelia]
+- [Desarrollado2 Florelia Silva]
 - [Nombre Desarrollador 3]
 
 ## Tecnologías utilizadas
